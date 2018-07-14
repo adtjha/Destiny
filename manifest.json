@@ -1,0 +1,7 @@
+{
+  "name": "Destiny",
+  "short_name": "Destiny",
+  "description": "get to know your destiny",
+  "start_url": "/",
+  "display": "standalone"
+}
